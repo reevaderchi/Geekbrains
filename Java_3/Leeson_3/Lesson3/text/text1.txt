@@ -1,0 +1,2 @@
+Sabre Wulf is an action-adventure game by Ultimate Play the Game, initially released in 1984 for the ZX Spectrum home computer.
+The player navigates the pith-helmeted Sabreman through a colourful 2D jungle maze to collect amulet pieces, avoid enemies, and bypass the guardian at its exit.
